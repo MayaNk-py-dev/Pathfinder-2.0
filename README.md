@@ -3,7 +3,7 @@ This is a project on visualizing path finding algorithms i.e BFS, DFS, Dikstraâ€
 Green box is the starting node and Red box is the end node.
 
 # Features <a name="features"></a>
-* Five Unique Pathfinding Algorithms
+* Pathfinding Algorithms Used :
    * A* Search 
    * Dijkstras Algorithm 
    * Greedy Best First Search 
